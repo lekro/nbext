@@ -1,0 +1,37 @@
+{
+  "block.note.basedrum": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      "note/bd"
+    ]
+  },
+  "block.note.bass": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      "note/bassattack"
+    ]
+  },
+  "block.note.harp": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      "note/harp"
+    ]
+  },
+  "block.note.hat": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      "note/hat"
+    ]
+  },
+  "block.note.snare": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      "note/snare"
+    ]
+  }
+}
